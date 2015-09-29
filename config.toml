@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://http://falconed.github.io/haslarrybeenreplaced/"
+baseurl = "http://falconed.github.io/haslarrybeenreplaced/"
 languageCode = "en-us"
 title = "Has Larry Been Replaced"
 theme = "hugo-artists-theme"
