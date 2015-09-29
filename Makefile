@@ -1,3 +1,5 @@
+CURRENT_COMMIT=$(shell git rev-list --max-count=1 HEAD)
+
 all: site
 
 site:
@@ -12,4 +14,10 @@ publish: all
 	git checkout gh-pages
 	mv public/* .
 	rm -r public
+	rm -rf themes
 	git status
+	git add *
+	git ci -a -m ${CURRENT_COMMIT}
+	git push origin -u gh-pages
+	git checkout master
+
