@@ -9,4 +9,6 @@ server: site
 
 publish: all
 	git checkout gh-pages
-	cp -R public/* .
+	mv public/* .
+	rm -r public
+	git status
