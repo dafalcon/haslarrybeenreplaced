@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "Current Larry"
-		bio = "**Larry specializes in making things** for human people. Larry's work ethic is unparalled and his communication skills are unmatched by any of the markov chains we've made so far."
+		bio = "**Larry specializes in making things** for human people. Larry's work ethic is second to none and his communication skills are unmatched by any of the markov chains we've made so far.  Replacing him with a bank of well dressed GPUs isn't panning out as well as we'd hoped."
 
 		[[params.about.skills]]
 			name = "Leaving GCDS"
