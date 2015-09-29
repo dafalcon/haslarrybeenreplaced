@@ -176,11 +176,11 @@ theme = "hugo-artists-theme"
 
 
 	[params.form]
-		title = "Let's work together"
+		title = "Think you've got what it takes to be Larry?"
 		# Form fields
 		name = "Your Name"
 		email = "Your Email"
-		message = "Tell me about your project"
+		message = "Tell us how you won't leave GCDS"
 		buttonText = "Send"
 
 
