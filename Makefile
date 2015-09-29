@@ -8,5 +8,5 @@ server: site
 	hugo server --theme=artists --buildDrafts
 
 publish: all
-	git checkout -b gh-pages
+	git checkout gh-pages
 	cp -R public/* .
