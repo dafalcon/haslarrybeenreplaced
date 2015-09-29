@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "Current Larry"
-		bio = "**Larry specializes in making things** for human people. Larry's work ethic is second to none and his communication skills are unmatched by any of the markov chains we've made so far.  Replacing him with a bank of well dressed GPUs isn't panning out as well as we'd hoped."
+		bio = "**Larry specializes in making things** for human people. Larry's work ethic is second to none and his communication skills are unmatched by any of the markov chains we've made so far.  Replacing him with a bank of well dressed GPUs isn't panning out as well as we'd hoped.  Here are some things Current Larry is good at (or not):"
 
 		[[params.about.skills]]
 			name = "Leaving GCDS"
@@ -116,7 +116,7 @@ theme = "hugo-artists-theme"
 
 	# Clients section
 	[params.clients]
-		title = "Clients"
+		title = "Testimonials"
 
 		[[params.clients.list]]
 			avatar = "face-aaroni.jpg"
