@@ -1,0 +1,188 @@
+# Site settings
+baseurl = "http://haslarrybeenreplaced.com/"
+languageCode = "en-us"
+title = "Has Larry Been Replaced"
+theme = "hugo-artists-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Dan Falcone"
+	description = ""
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "nobody@akamai.com"
+
+
+	# Header an navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "Has Larry Been Replaced"
+		shortBio = "nope"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "Current Larry"
+		bio = "**Larry specializes in making things** for human people. Larry's work ethic is unparalled and his communication skills are unmatched by any of the markov chains we've made so far."
+
+		[[params.about.skills]]
+			name = "Leaving GCDS"
+			value = 9
+
+		[[params.about.skills]]
+			name = "Staying at GCDS"
+			value = 1
+
+		[[params.about.skills]]
+			name = "English"
+			value = 10
+
+		[[params.about.skills]]
+			name = "German"
+			value = 1
+
+		[[params.about.skills]]
+			name = "Making Drinks"
+			value = 5
+
+		[[params.about.skills]]
+			name = "Drinking Drinks"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Writing perforce commits"
+			value = 8
+
+		[[params.about.skills]]
+			name = "Reading perforce commits"
+			value = 9
+
+	# Work section
+	[params.work]
+		title = "Work"
+
+		[[params.work.projects]]
+			name = "TYPO International Design Talks"
+			folder = "proj-1"
+
+		[[params.work.projects]]
+			name = "City-IN website concept"
+			folder = "proj-2"
+
+		[[params.work.projects]]
+			name = "Crispy Icons"
+			folder = "proj-3"
+
+		[[params.work.projects]]
+			name = "Flat Mobile UI/UX Concept"
+			folder = "proj-4"
+
+		[[params.work.projects]]
+			name = "Fresh It Up"
+			folder = "proj-5"
+
+		[[params.work.projects]]
+			name = "Timeline Page"
+			folder = "proj-6"
+
+		[[params.work.projects]]
+			name = "Weather Dashboard"
+			folder = "proj-7"
+
+		[[params.work.projects]]
+			name = "Stripes & Co"
+			folder = "proj-8"
+
+
+	# Clients section
+	[params.clients]
+		title = "Clients"
+
+		[[params.clients.list]]
+			avatar = "face-aaroni.jpg"
+			name   = "Scott Summers"
+			title  = "Director of Design, OnToText Ind."
+			quote  = "**While we all felt that Travis was a great** asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often."
+			logo   = "logo1.png"
+
+		[[params.clients.list]]
+			avatar = "face-atariboy.jpg"
+			name   = "Hank McCoy"
+			title  = "Eater of Salad, Antartica Int."
+			quote  = "**Working with Travis was the highlight of my career.** Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying \"uh huh, and then what?\" 30 times in a row to my girlfriend without her noticing."
+			logo   = "logo2.png"
+
+		[[params.clients.list]]
+			avatar = "face-jackiesaik.jpg"
+			name   = "Stacy Lang"
+			title  = "Social Media Girl, Quebec Int."
+			quote  = "**Yea, I guess hes good at computers or something,** but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?"
+			logo   = "logo3.png"
+
+		[[params.clients.list]]
+			avatar = "face-teleject.jpg"
+			name   = "Cleatus Cassidy"
+			title  = "VP of Helmut, Lorem Sorem LLC."
+			quote  = "**Back in old country** only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework."
+			logo   = "logo4.png"
+
+
+	# Contact secion
+	[params.contact]
+		title = "Contact"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		[[params.contact.social]]
+			icon = "twitter"
+			link = "//twitter.com/devtipsshow"
+
+		[[params.contact.social]]
+			icon = "dribbble"
+			link = "//dribbble.com/travisneilson"
+
+		[[params.contact.social]]
+			icon = "behance"
+			link = "//www.behance.net/travisneilson"
+
+		[[params.contact.social]]
+			icon = "youtube"
+			link = "//www.youtube.com/DevTipsForDesigners"
+
+		[[params.contact.social]]
+			icon = "linkedin"
+			link = "//www.linkedin.com/in/travisneilson"
+
+
+	[params.form]
+		title = "Let's work together"
+		# Form fields
+		name = "Your Name"
+		email = "Your Email"
+		message = "Tell me about your project"
+		buttonText = "Send"
+
+
+	[params.footer]
+		copyright = "Published under the Unlicense License."
