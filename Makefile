@@ -12,6 +12,7 @@ server: site
 publish: all
 	git status | grep 'nothing to commit'
 	git checkout gh-pages
+	rm -rf css img js work
 	mv public/* .
 	rm -r public
 	rm -rf themes
