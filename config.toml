@@ -115,15 +115,16 @@ theme = "hugo-artists-theme"
 
 
 	# Clients section
+  # client faces and logos go in static/img/clients
 	[params.clients]
 		title = "Testimonials"
 
 		[[params.clients.list]]
-			avatar = "face-aaroni.jpg"
-			name   = "Scott Summers"
-			title  = "Director of Design, OnToText Ind."
-			quote  = "**While we all felt that Larry was a great** asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often."
-			logo   = "logo1.png"
+			avatar = "jhorsfal.jpg"
+			name   = "James Horsfall"
+			title  = "The AMS Overlord"
+			quote  = "Larry, you have **set the bar high**."
+			logo   = "jh.png"
 
 		[[params.clients.list]]
 			avatar = "face-atariboy.jpg"
@@ -185,4 +186,4 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
-		copyright = "Published under the Unlicense License."
+		copyright = "This ocean was made by our tears"
