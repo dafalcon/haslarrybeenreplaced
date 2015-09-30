@@ -11,6 +11,7 @@ server: site
 
 publish: all
 	git status | grep 'nothing to commit'
+	git push origin -u master
 	git checkout gh-pages
 	rm -rf css img js work
 	mv public/* .
