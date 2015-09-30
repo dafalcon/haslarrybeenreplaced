@@ -134,11 +134,11 @@ theme = "hugo-artists-theme"
 			logo   = "dh.png"
 
 		[[params.clients.list]]
-			avatar = "face-jackiesaik.jpg"
-			name   = "Stacy Lang"
-			title  = "Social Media Girl, Quebec Int."
-			quote  = "**Yea, I guess hes good at computers or something,** but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?"
-			logo   = "logo3.png"
+			avatar = "dgruhn.png"
+			name   = "Dan Gruhn"
+			title  = "Head hair in residence"
+			quote  = "**Larry is sort of everything** I always wanted in a supervisor. Having worked for him for a number of years I can honestly say he is above average. If you are looking for hillbilly help, I can recommend him without reservations."
+			logo   = "dg.png"
 
 		[[params.clients.list]]
 			avatar = "face-teleject.jpg"
