@@ -147,6 +147,19 @@ theme = "hugo-artists-theme"
 			quote  = "**Despite his inane insistance** on three-toppings, max, I suppose he makes an adequate pizza."
 			logo   = "bc.png"
 
+		[[params.clients.list]]
+			avatar = "scripley.jpg"
+			name   = "Scott Ripley"
+			title  = "Embittered former employee"
+			quote  = "**lgu is a blithering** pablum of Internet memes, perforce commits and metadata packed into a human tarball. p4 archive //lgu, p4 archive."
+			logo   = "sr.png"
+
+		[[params.clients.list]]
+			avatar = "rrein.png"
+			name   = "Tiny Rick"
+			title  = "Genius Scientist"
+			quote  = "**Larry Underhill was probably** in the top 3 best directors of engineering for GCDS in 2014."
+			logo   = "rr.png"
 
 	# Contact secion
 	[params.contact]
