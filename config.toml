@@ -127,11 +127,11 @@ theme = "hugo-artists-theme"
 			logo   = "jh.png"
 
 		[[params.clients.list]]
-			avatar = "face-atariboy.jpg"
-			name   = "Hank McCoy"
-			title  = "Eater of Salad, Antartica Int."
-			quote  = "**Working with Larry was the highlight of my career.** Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying \"uh huh, and then what?\" 30 times in a row to my girlfriend without her noticing."
-			logo   = "logo2.png"
+			avatar = "dhersey.jpg"
+			name   = "Darren Hersey"
+			title  = "Frustrated Communicator"
+			quote  = "**Airman Underhill:**  Always ensuring the problem is at the **other end**."
+			logo   = "dh.png"
 
 		[[params.clients.list]]
 			avatar = "face-jackiesaik.jpg"
