@@ -16,8 +16,8 @@ publish: all
 	mv public/* .
 	rm -r public
 	rm -rf themes
-	git status
 	git add *
+	git status
 	git ci -a -m ${CURRENT_COMMIT}
 	git push origin -u gh-pages
 	git checkout master
