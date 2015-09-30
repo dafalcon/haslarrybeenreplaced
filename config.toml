@@ -157,7 +157,7 @@ theme = "hugo-artists-theme"
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 		[[params.contact.social]]
 			icon = "twitter"
-			link = "//twitter.com/devtipsshow"
+			link = "//twitter.com/lgubeenreplaced"
 
 		[[params.contact.social]]
 			icon = "dribbble"
