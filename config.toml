@@ -161,6 +161,13 @@ theme = "hugo-artists-theme"
 			quote  = "**Larry Underhill was probably** in the top 3 best directors of engineering for GCDS in 2014."
 			logo   = "rr.png"
 
+		[[params.clients.list]]
+			avatar = "mdemicco.jpg"
+			name   = "Matt Demicco"
+			title  = "'92 Galant Enthusiast"
+			quote  = "**Larry made us all** do service reviews **TWICE** and gets a website with a slick UI and heart-felt testimonials. I mind my own business and get a hate-site without so much as proper pagination. I see how it is now..."
+			logo   = "md.png"
+
 	# Contact secion
 	[params.contact]
 		title = "Contact"
