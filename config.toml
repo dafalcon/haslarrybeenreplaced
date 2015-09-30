@@ -123,7 +123,7 @@ theme = "hugo-artists-theme"
 			avatar = "jhorsfal.jpg"
 			name   = "James Horsfall"
 			title  = "The AMS Overlord"
-			quote  = "Larry, you have **set the bar high**."
+			quote  = "**Larry**, you have **set the bar high**."
 			logo   = "jh.png"
 
 		[[params.clients.list]]
