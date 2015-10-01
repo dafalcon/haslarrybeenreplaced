@@ -168,6 +168,13 @@ theme = "hugo-artists-theme"
 			quote  = "**Larry made us all** do service reviews **TWICE** and gets a website with a slick UI and heart-felt testimonials. I mind my own business and get a hate-site without so much as proper pagination. I see how it is now..."
 			logo   = "md.png"
 
+		[[params.clients.list]]
+			avatar = "zsisul.jpg"
+			name   = "Zlatan Sisul"
+			title  = "Z"
+			quote  = "**Above all Larry is a music aficionado.**  An expat bluegrass enthusiast longing to hear someone utter the words 'Ich liebe es, wenn Du von Banjoersatzteilen redest.'"
+			logo   = "zs.png"
+
 	# Contact secion
 	[params.contact]
 		title = "Contact"
