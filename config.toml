@@ -174,7 +174,15 @@ theme = "hugo-artists-theme"
 			title  = "Z"
 			quote  = "**Above all Larry is a music aficionado.**  An expat bluegrass enthusiast longing to hear someone utter the words 'Ich liebe es, wenn Du von Banjoersatzteilen redest.'"
 			logo   = "zs.png"
+    
+		[[params.clients.list]]
+			avatar = "alonardo.jpg"
+			name   = "Tony Lonardo"
+			title  = "Mapper's Delight"
+			quote  = "I try to mimic Larry whenever I can... that's why I've obtained his liquor cabinet.  Larry, I will continue to to think of you before I drink!"
+			logo   = "tl.png"
 
+    
 	# Contact secion
 	[params.contact]
 		title = "Contact"
