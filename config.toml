@@ -176,7 +176,7 @@ theme = "hugo-artists-theme"
 			logo   = "zs.png"
     
 		[[params.clients.list]]
-			avatar = "alonardo.jpg"
+			avatar = "alonardo1.png"
 			name   = "Tony Lonardo"
 			title  = "Mapper's Delight"
 			quote  = "**I try to mimic Larry** whenever I can... that's why I've obtained his liquor cabinet.  Larry, I will continue to to think of you before I drink!"
