@@ -1,4 +1,4 @@
-**Larry's endlessly entertaining commit history**
+**A sampling of Larry's endlessly entertaining commit history:**
 
 * honestly, I know how the fucking KMI system works here. 
 * trying to delete this
