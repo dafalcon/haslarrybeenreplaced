@@ -189,7 +189,7 @@ theme = "hugo-artists-theme"
 		[[params.clients.list]]
 			avatar = "kkc.jpg"
 			name   = "Ka Kau Chan"
-			title  = "The Asian Brad Pitt"
+			title  = "Pink Lady Enthusiast"
 			quote  = "**Larry is distinguished** by his unstoppable evolution and growth.  (And then, he trimmed his beard and went on a diet)"
 			logo   = "kkc.png"
 
