@@ -172,7 +172,15 @@ theme = "hugo-artists-theme"
 			quote  = "**It will be hard** to fill Larry's shoes...  But everybody should take solace that when Bonci starts reporting to me next week I will manage the shit out of him."
 			logo   = "mo.png"
 
-    
+		[[params.clients.list]]
+			avatar = "amyb.jpg"
+			name   = "Amy Black"
+			title  = "Devtools Refugee"
+			quote  = "**And Larry is moving on** to the land where beer is cheaper than water... Larry, keep this phrase handy, 'Wo kann ich mich übergeben?'"
+			logo   = "ab.png"
+
+
+
 	# Contact secion
 	[params.contact]
 		title = "Click here for malware"
