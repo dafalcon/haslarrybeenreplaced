@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "gcds-social@akamai.com"
+	email = "nobody@akamai.com"
 
 
 	# Header an navigation
@@ -259,7 +259,7 @@ theme = "hugo-artists-theme"
 		# Form fields
 		name = "Your Name"
 		email = "Your Email"
-		message = "Tell us how you won't leave GCDS"
+		message = "Your application will be sent to nobody@akamai.com for further processing:"
 		buttonText = "Send"
 
 
