@@ -221,6 +221,13 @@ theme = "hugo-artists-theme"
 			quote  = "**Well, Actually...** Larry will still be Larry. And that’s a good thing because he’s good at that."
 			logo   = "em.png"
 
+		[[params.clients.list]]
+			avatar = "dafalcon.jpg"
+			name   = "Dan Falcone"
+			title  = "Programmer... or serial killer?"
+			quote  = "**Larry Underhill**: chief belly and underpants inspector.  It's a wonder nobody called HR."
+			logo   = "df.png"
+
 
 
 	# Contact secion
