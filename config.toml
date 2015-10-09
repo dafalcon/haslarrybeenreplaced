@@ -79,7 +79,7 @@ theme = "hugo-artists-theme"
 
       # Work section
         [params.work]
-               title = "Work"
+               title = "You Otter Read These"
 
                [[params.work.projects]]
                        name = "P4 commits"
