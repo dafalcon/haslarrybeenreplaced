@@ -200,6 +200,13 @@ theme = "hugo-artists-theme"
 			quote  = "**Larry did nothing but** type the right characters into a keyboard and utter the right phonemes in the right sequence, at the right time, to make things go. Anyone could do that with an infinite number of chances."
 			logo   = "tl.png"
 
+		[[params.clients.list]]
+			avatar = "droca.jpg"
+			name   = "Dan Roca"
+			title  = "Dr. Oca"
+			quote  = "**Larry has a passion** for music and is quite adept with various stringed instruments. (I think he did something for GCDS, too.) Therefore, Larry, I full expect you to be a Polka fanatic within a year. Volksmusik or Oom-pah are acceptable as well. Don't disappoint me."
+			logo   = "dr.png"
+
 
 	# Contact secion
 	[params.contact]
