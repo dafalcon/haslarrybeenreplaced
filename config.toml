@@ -207,6 +207,13 @@ theme = "hugo-artists-theme"
 			quote  = "**Larry has a passion** for music and is quite adept with various stringed instruments. (I think he did something for GCDS, too.) Therefore, Larry, I full expect you to be a Polka fanatic within a year. Volksmusik or Oom-pah are acceptable as well. Don't disappoint me."
 			logo   = "dr.png"
 
+		[[params.clients.list]]
+			avatar = "kevege.jpg"
+			name   = "Kevin Ege"
+			title  = "Ticket Master"
+			quote  = "I have nothing witty to quip about, except to say that **Larry has been an amazing friend**, mentor, and leader.  I’m not at all surprised his complete dedication to excellence in everything he does has afforded him the opportunity to prove himself a badass again with this worthy challenge."
+			logo   = "ke.png"
+
 
 	# Contact secion
 	[params.contact]
