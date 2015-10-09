@@ -10,11 +10,21 @@
     
     <item>
       <title></title>
-      <link>http://haslarrybeenreplaced.com/work/proj-3/</link>
+      <link>http://haslarrybeenreplaced.com/work/proj-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://haslarrybeenreplaced.com/work/proj-3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-3/CrispyIcons-PetrasNargela.jpg&#34; alt=&#34;Crispy Icons&#34; /&gt;&lt;/p&gt;
+      <guid>http://haslarrybeenreplaced.com/work/proj-4/</guid>
+      <description>&lt;p&gt;Underhill is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Underhill,_Vermont&#34;&gt;town&lt;/a&gt; and &lt;a href=&#34;http://www.vtstateparks.com/htm/underhill.htm&#34;&gt;state park&lt;/a&gt; in Vermont:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/vermont.jpg&#34; alt=&#34;vermont&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Underhill thinks you should:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/be_an_optimist.jpg&#34; alt=&#34;optimist&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Underhill is Seth MacFarlane in disguise:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/seth_and_larry.png&#34; alt=&#34;seth_and_larry&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -30,28 +40,17 @@
     
     <item>
       <title></title>
-      <link>http://haslarrybeenreplaced.com/work/proj-1/</link>
+      <link>http://haslarrybeenreplaced.com/work/proj-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://haslarrybeenreplaced.com/work/proj-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-1/img1.jpg&#34; alt=&#34;Typo International&#34; /&gt;&lt;/p&gt;
+      <guid>http://haslarrybeenreplaced.com/work/proj-3/</guid>
+      <description>&lt;p&gt;Aus München mit Liebe:&lt;/p&gt;
 
-&lt;p&gt;TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/work/munich.jpg&#34; alt=&#34;Aus München mit Liebe&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/work/proj-1/img2.jpg&#34; alt=&#34;Typo International&#34; /&gt;
-&lt;img src=&#34;img/work/proj-1/img3.jpg&#34; alt=&#34;Typo International&#34; /&gt;
-&lt;img src=&#34;img/work/proj-1/img4.jpg&#34; alt=&#34;Typo International&#34; /&gt;
-&lt;img src=&#34;img/work/proj-1/img5.jpg&#34; alt=&#34;Typo International&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://haslarrybeenreplaced.com/work/proj-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://haslarrybeenreplaced.com/work/proj-4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-4/flatmobile-AyoubElred.jpg&#34; alt=&#34;Flat Mobile UI/UX Concept&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;At Edge 2014: &amp;ldquo;We will see elements of this delivered in 2015.&amp;rdquo;  Guess I&amp;rsquo;d better get back to work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/larry_and_tom.png&#34; alt=&#34;Larry and Charlie&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -61,17 +60,53 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://haslarrybeenreplaced.com/work/proj-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-2/CityIn-AntonSkvortsov.jpg&#34; alt=&#34;City In&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;A selection of output from a markov chain trained on Larry&amp;rsquo;s commit history:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;initial submission.&lt;/li&gt;
+&lt;li&gt;I really just want to get fixed.&lt;/li&gt;
+&lt;li&gt;avoid false man in the ffs config files.&lt;/li&gt;
+&lt;li&gt;First cut at adding immutable attrib to man and info pages.&lt;/li&gt;
+&lt;li&gt;NOT use v2 ARLs since we do not make it back with a perl client.&lt;/li&gt;
+&lt;li&gt;Dane&amp;rsquo;s personal pleasure.&lt;/li&gt;
+&lt;li&gt;Real HTML console.&lt;/li&gt;
+&lt;li&gt;Andy&amp;rsquo;s improved method of generating keys.&lt;/li&gt;
+&lt;li&gt;AMIRITE ?&lt;/li&gt;
+&lt;li&gt;I &amp;lt;heart&amp;gt; kkc.&lt;/li&gt;
+&lt;li&gt;I lose it.&lt;/li&gt;
+&lt;li&gt;* think * that I don&amp;rsquo;t know if Meredith is testing something or what.&lt;/li&gt;
+&lt;li&gt;P4 to build fer good.&lt;/li&gt;
+&lt;li&gt;This file is not related to the Old Ways.&lt;/li&gt;
+&lt;li&gt;READY FOR USE.&lt;/li&gt;
+&lt;li&gt;Automated update from initial checkin of document.&lt;/li&gt;
+&lt;li&gt;Stupid checkin.&lt;/li&gt;
+&lt;li&gt;Re-encrypted with the adult content maps and WMS Corona maps.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://haslarrybeenreplaced.com/work/proj-6/</link>
+      <link>http://haslarrybeenreplaced.com/work/proj-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://haslarrybeenreplaced.com/work/proj-6/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-6/TimeLinePage-SergeyValiukh.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
+      <guid>http://haslarrybeenreplaced.com/work/proj-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Larry&amp;rsquo;s endlessly entertaining commit history&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;honestly, I know how the fucking KMI system works here.&lt;/li&gt;
+&lt;li&gt;trying to delete this&lt;/li&gt;
+&lt;li&gt;fixed more errors. I think this is good for the customer facing test now&amp;hellip;&lt;/li&gt;
+&lt;li&gt;I actually screwed up. There were no changes made&lt;/li&gt;
+&lt;li&gt;cleaning house.&lt;/li&gt;
+&lt;li&gt;do I want I mean, not what I say.&lt;/li&gt;
+&lt;li&gt;ccuapi hack^HHHH shim.&lt;/li&gt;
+&lt;li&gt;tc/netem are not really anybody&amp;rsquo;s friends&lt;/li&gt;
+&lt;li&gt;hello kitty django app to return PAC files and Content Assertions for UCDS.&lt;/li&gt;
+&lt;li&gt;moar DHCP&lt;/li&gt;
+&lt;li&gt;add bonci.&lt;/li&gt;
+&lt;li&gt;sprinkles on top.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -96,6 +131,16 @@
       
       <guid>http://haslarrybeenreplaced.com/work/proj-8/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://haslarrybeenreplaced.com/work/proj-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://haslarrybeenreplaced.com/work/proj-6/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-6/TimeLinePage-SergeyValiukh.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
