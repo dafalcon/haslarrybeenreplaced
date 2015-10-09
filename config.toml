@@ -186,6 +186,13 @@ theme = "hugo-artists-theme"
 			quote  = "**From one explorer** to another... may you reach new summits.  And remember, if you are ever hiking in bear country carry ‘bear spray’ and a ‘bear bell’.  That way if you go missing and the search and rescue team finds bear scat that smells like ‘bear spray’ and has a bell in it, well..."
 			logo   = "bh.png"
 
+		[[params.clients.list]]
+			avatar = "kkc.jpg"
+			name   = "Ka Kau Chan"
+			title  = "The Asian Brad Pitt"
+			quote  = "**Larry is distinguished** by his unstoppable evolution and growth.  (And then, he trimmed his beard and went on a diet)"
+			logo   = "kkc.png"
+
 
 	# Contact secion
 	[params.contact]
