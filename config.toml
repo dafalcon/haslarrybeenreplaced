@@ -214,6 +214,14 @@ theme = "hugo-artists-theme"
 			quote  = "I have nothing witty to quip about, except to say that **Larry has been an amazing friend**, mentor, and leader.  I’m not at all surprised his complete dedication to excellence in everything he does has afforded him the opportunity to prove himself a badass again with this worthy challenge."
 			logo   = "ke.png"
 
+		[[params.clients.list]]
+			avatar = "emccarth.jpg"
+			name   = "Erin McCarthy"
+			title  = "Correction Guy"
+			quote  = "**Well, Actually...** Larry will still be Larry. And that’s a good thing because he’s good at that."
+			logo   = "em.png"
+
+
 
 	# Contact secion
 	[params.contact]
