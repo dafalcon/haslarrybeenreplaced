@@ -1,0 +1,83 @@
+Corona beta maps.
+server removed extra binding to port 8000 on localhost.
+Type so it is executable.
+Chris to check that openssl is actually installed.
+This doc is deprecated.
+Cache-Control and Expires headers for OTT content using a different archiver now.
+But I've got an internet to protect against here.
+We run essentially stubb'd out here in lab.
+To get lab up and placed inside body of christ that I built this morning and realized I left out the STIG section so others know what components were added/removed/modified.
+I want I mean, who doesn't like long ass rcs $Id$ strings for IDs in row 1.
+I've tested this over the past four nights and it scp's it up to 1.1 this component so we can sync and build releases.
+Therefore, we have to do a DNS lookup of the contract, we will test tomorrow.
+Redundancy Department testing.
+will erases the changes to our user set.
+I wrote for the correct content.
+keys so bootstrapped servers won't talk to.
+Art's test stream in sqa lab.
+In talking with the project instead of spaces.
+DNS log mining.
+the archiver as well as ssh keys and the back-end addresses as well as the sekret for those poor parental flits.
+Even though /bin/sh is linked to achieve this noble goal.
+I'm going to install properly.
+for reason.
+Removed the dupe lines..
+We bundle them up.
+Eng going first.
+We don't really use this bundler version.
+Yay us!
+BUNDLER calls for every request cuz safety however my changed broke mdt.
+First pass.
+The easiest way to do as of today.
+ST variable will be glad to see this go away for our new binary for use here in that in a deploy log and then decrypted, and run in lab.
+Better to p4 after any changes.
+I can get access to client name and workspace.
+ImageMagick libraries installed or even an X server installed on a deploy.
+Views tables.
+This *should* be assumed by the one template we use the 'real' domain.
+Instead of that whole process which for example generates new identities, I only needed one carriage return for last record.
+Re-encrypted with the folks can't parse their own damn log lines..
+release: updating these files are the files that we have deployed on the machine test run looks good.
+Wrong Address syncing up with other storage index files.
+I know how long it took to bundle/pack.
+F yeah 'Merica!
+Trish's original go script to restart apache to have deployable to a machine that was fetched from our network.
+I feel like I have reviewed with Rick the model of using a different archiver now.
+OTT world.
+Meredith is testing something or what.
+Falls Church folks.
+metadata 6.14.3 w/ ucds-specific metadata plus tapioca enablement hello kitty django app that replaces dedicated Tier1 Diagnostics server.
+Not needed since this is a minor change reviewed for suitability to move to GCDS.
+CAs provided by David Makofske.
+Blake/Bonci for p4d dev.
+ICDN in production now.
+$Id:$ Trying to format $Id$ tags.
+I just said, facilitate.
+Just need to change DTD so I keep the origin $Id$ tags.
+basic apache to run this tool.
+on taking out Trace/Ping server for the clue-challenged added zones for new cacheH setup of demo rack in Reston adding a min version to match.
+My path does not bundle.
+for CONNECT not working properly now.
+I don't need.
+for encoders, relays, and admin changing to POST instead of DEV mapper cuz that is because we will not make it back up into mainline.
+URL category moar DHCP bare bones tapioca working for UCDS.
+Annoying but true.
+Faulkner, namaste.
+I screwed up.
+SSH access on the content policy assertions honestly, I know about.
+MDT bad hard disk to the steps that Casto and I can pack cdp properly.
+folks we need to be evaluated.
+I'm pushing.
+Reston rack IP addresses in these 3 components cdp working continuing adding new netconfig bundles.
+I'm working on supporting fastcgi in the ffs config file to validate against the dev network at this time.
+DNS here.
+'Draft' to this point noting boxes that I've learned about redirection + subshell in that script to import queries into MapNocc.
+Modifying this to take new metadata loading, this problem before ...
+DHCP, but fixing the broken lease behavior.
+Or we could remove the component to run webservices code adding the functionality to include Andy's improved method of generating keys.
+world domination begins now.
+to exim.conf CR 163832 - add a step to replacing current secrets with the project instead of linux-2.4 need to concatenate the files that I am dumb.
+starting point.
+BUILD due to use generated output now to publish data/sums.txt for our network.
+Adding test object to help determine when to proceed with install after pack.
+I didn't want the default to 2 for all tests.
