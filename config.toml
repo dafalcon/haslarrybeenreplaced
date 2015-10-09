@@ -193,6 +193,13 @@ theme = "hugo-artists-theme"
 			quote  = "**Larry is distinguished** by his unstoppable evolution and growth.  (And then, he trimmed his beard and went on a diet)"
 			logo   = "kkc.png"
 
+		[[params.clients.list]]
+			avatar = "tlargy.jpg"
+			name   = "Tim Largy"
+			title  = "Nighttime Evacuation Coordinator"
+			quote  = "**Larry did nothing but** type the right characters into a keyboard and utter the right phonemes in the right sequence, at the right time, to make things go. Anyone could do that with an infinite number of chances."
+			logo   = "tl.png"
+
 
 	# Contact secion
 	[params.contact]
